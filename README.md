@@ -17,5 +17,9 @@ Utilizar el simulador virtual Tinkercad para la practica experimental del circui
 
 Mediante la teoria de  las leyes de voltaje y de corriente de Kirchhoff calcular los valores teoricos.
 
-Calcular  el error porcentual entre los valores  teoricos y teoricos obtenidos a lo largo de la practica.
+Calcular  el error porcentual entre los valores  teoricos y  medidos obtenidos en la practica
 
+
+2.Marcos Teorico
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
