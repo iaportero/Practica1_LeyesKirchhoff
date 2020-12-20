@@ -24,11 +24,11 @@ Calcular  el error porcentual entre los valores  teoricos y  medidos obtenidos e
 
 * Conceptos Ley de Ohm y leyes de corriente  y voltaje de Kirchhoff
 
-![]( https://github.com/iaportero/Practica1_LeyesKirchhoff/blob/main/mapa%20leyes.jpg
+![]( https://github.com/iaportero/Practica1_LeyesKirchhoff/blob/main/mapa%20leyes.jpg)
 
 
 * Formulas a considera
 
 ![](https://github.com/iaportero/Practica1_LeyesKirchhoff/blob/main/foto%202.jpg)
-![]( 
+
  
