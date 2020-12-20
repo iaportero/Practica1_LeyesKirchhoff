@@ -49,7 +49,7 @@ Calcular  el error porcentual entre los valores  teoricos y  medidos obtenidos e
 
 4.Lista de Componentes
 
-*Simulador Tinkercad (conexion a internet)
+* Simulador Tinkercad (conexion a internet)
  
 * En Tinkercad  se necesita :
 
