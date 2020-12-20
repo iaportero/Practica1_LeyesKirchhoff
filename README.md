@@ -22,4 +22,6 @@ Calcular  el error porcentual entre los valores  teoricos y  medidos obtenidos e
 
 2.Marcos Teorico
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
+![]( https://github.com/iaportero/Practica1_LeyesKirchhoff/blob/main/mapa%20leyes.jpg)
+
+
