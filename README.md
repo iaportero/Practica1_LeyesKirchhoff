@@ -123,3 +123,10 @@ Registro en TinkerCAD - Introducción al diseño 3D con TinkerCAD. (n.d.). Retri
 
 10.Anexos
 
+Link del video de la practica
+
+
+https://www.youtube.com/watch?v=vL3F9o0baeE&feature=youtu.
+
+
+Link del arhivo de los calculos teoricos
