@@ -42,7 +42,7 @@ Calcular  el error porcentual entre los valores  teoricos y  medidos obtenidos e
 (Foto 3)
 
 
-* Utilizando el simulador Tinkercat se muestra el circuito armado
+* Utilizando el simulador Tinkercad se muestra el circuito armado
 
 ![](https://github.com/iaportero/Practica1_LeyesKirchhoff/blob/main/foto%204.jpg)
 (Foto 4)
@@ -83,9 +83,25 @@ Midiendo la intensidad de corriente
 ![](https://github.com/iaportero/Practica1_LeyesKirchhoff/blob/main/foto%207.jpg)
 (Foto 7)
 
-6.Manual de usuario
+6.Manual de  usuario
 
-https://es.slideshare.net/tania_rh/tinkercad
+https://github.com/iaportero/Practica1_LeyesKirchhoff/blob/main/manual-tinkercad.pdf
+
+7. Descripcion de prerrequisitos y configuracion
+
+*  Crear una cuenta Tinkercad
+
+Lo primero  es acceder a la web de tinkercad
+
+https://www.tinkercad.com/dashboard
+
+Se debe registrar  con un correo electronico (aplicacion gratuita)
+
+Se debe confirm la cuenta mediante el correo electronico
+
+Ya en la pagina principal configurar acorde a su disposicion
+
+![](https://github.com/iaportero/Practica1_LeyesKirchhoff/blob/main/Foto%208.png)
 
 
 
