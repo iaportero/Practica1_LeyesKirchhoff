@@ -17,7 +17,7 @@ Utilizar el simulador virtual Tinkercad para la practica experimental del circui
 
 Mediante la teoria de  las leyes de voltaje y de corriente de Kirchhoff calcular los valores teoricos.
 
-Calcular  el error porcentual entre los valores  teoricos y  medidos obtenidos en la practica
+Encontrar  el error porcentual entre  valores teoricos y experimentales.
 
 
 2.Marcos Teorico
@@ -103,6 +103,23 @@ Ya en la pagina principal configurar acorde a su disposicion
 
 ![](https://github.com/iaportero/Practica1_LeyesKirchhoff/blob/main/Foto%208.png)
 
+8. Conclusiones
 
 
+*    Se llegó a demostrar las leyes de Kirchhoff de manera  experimental  y teórica al verificar que las mediciones concuerdan tanto en valores de escritorio como en el simulador
+
+
+
+*  Se  concluyo que el error porcentual es poco considerable ya que hay poca fluctuacion de  medidas tanto en lo teorico como en lo practico
+
+9.Bibliografia
+
+
+((No Title), n.d.)(No Title). (n.d.). Retrieved December 20, 2020, from http://www3.gobiernodecanarias.org/medusa/ecoescuela/3d/files/2017/04/manual-tinkercad.
+
+
+
+Registro en TinkerCAD - Introducción al diseño 3D con TinkerCAD. (n.d.). Retrieved December 20, 2020, from https://www.programoergosum.com/cursos-online/impresion-3d/902-introduccion-a-tinkercad/registro-en-tinkercad
+
+10.Anexos
 
