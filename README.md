@@ -1,7 +1,8 @@
 
 # Practica1_LeyesKirchhoff 
 
-INFORMEE
+Informe
+
 
 Integrantes: Bryan Santiago Torres Reyes, Roger Steveen Armas Simbaña, Portero Cazares Israel Alejandro
 
@@ -103,6 +104,7 @@ Ya en la pagina principal configurar acorde a su disposicion
 
 ![](https://github.com/iaportero/Practica1_LeyesKirchhoff/blob/main/Foto%208.png)
 
+
 8. Conclusiones
 
 
@@ -112,14 +114,18 @@ Ya en la pagina principal configurar acorde a su disposicion
 
 *  Se  concluyo que el error porcentual es poco considerable ya que hay poca fluctuacion de  medidas tanto en lo teorico como en lo practico
 
+
 9.Bibliografia
 
 
 ((No Title), n.d.)(No Title). (n.d.). Retrieved December 20, 2020, from http://www3.gobiernodecanarias.org/medusa/ecoescuela/3d/files/2017/04/manual-tinkercad.
 
 
+Registro en TinkerCAD - Introducción al diseño 3D con TinkerCAD. (n.d.). Retrieved December 20, 2020, from https://www.programoergosum.com/cursos-online/impresion-3d/902-introduccion-a-tinkercad/registro-en-
 
-Registro en TinkerCAD - Introducción al diseño 3D con TinkerCAD. (n.d.). Retrieved December 20, 2020, from https://www.programoergosum.com/cursos-online/impresion-3d/902-introduccion-a-tinkercad/registro-en-tinkercad
+
+Tinkercad. Simulador. (n.d.). Retrieved December 20, 2020, from https://codigo21.educacion.navarra.es/recursos/tinkercad-simulador/
+
 
 10.Anexos
 
