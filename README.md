@@ -136,3 +136,5 @@ https://www.youtube.com/watch?v=vL3F9o0baeE&feature=youtu.
 
 
 Link del arhivo de los calculos teoricos
+
+https://github.com/iaportero/Practica1_LeyesKirchhoff/blob/main/CODIGO%20FUENTE/Hoja%20de%20Calculos.docx
